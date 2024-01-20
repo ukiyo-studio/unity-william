@@ -4,8 +4,7 @@ public class PlayerController : MonoBehaviour
 {
     private const string Horizontal = "Horizontal";
     private const string Vertical = "Vertical";
-
-    private const float MoveSpeed = 2f;
+    [SerializeField] private const float MoveSpeed = 2f;
     private bool _isMoving;
     private Rigidbody2D _rigidBody;
     private Vector2 _movement;
