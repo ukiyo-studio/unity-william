@@ -1,0 +1,1706 @@
+fileFormatVersion: 2
+guid: c022d07e7c782824a8f78d796eae9150
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd594c6f15c185b4c8bf3d4e5a648ab2
+      internalID: -1376099119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafa8d0813a5765459b7ba183b85df2b
+      internalID: -197874560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada05a9b659dc540aa2e73139858175
+      internalID: 1465894487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420797805cad4af47b908794075bc583
+      internalID: 1479109010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d926a3335a0e84d93428864bdc8983
+      internalID: 1047897796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ec9cfd4ef51f4d934b29421b386ed
+      internalID: 754020189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b22ad434030704887c3bb19d0e016d
+      internalID: 686241767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1884784bebadc244b61f6555ab653fa
+      internalID: 270749190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a42cca78d055b4099c74fba29109fe
+      internalID: 1563786152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41fed05e95ace04bada6a6343523a74
+      internalID: 1302963337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfe75f9b61c3624fb84208c780659ee
+      internalID: -800368176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e726051a735cfe4e89ccaab0f690627
+      internalID: -1719995369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556fe2b97f12d0849b45a1187d6ac711
+      internalID: -991684036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e0d99e929acdc4b9a7be298b4d9c7d
+      internalID: -918023206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f24ee312663cc94eacebe6b98dccb7e
+      internalID: -1365134359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49a76daafb075409b1462095f065da
+      internalID: 304637920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517bad37f8bdf84984a0acf036d37da
+      internalID: -1441177211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0893fe9630562a4197ce5f0780f3695
+      internalID: 1184868662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c244d63a5a23c4f963478151dc8243
+      internalID: 52052000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef801facfad7a438aa1d9608a4e32e
+      internalID: -1571597171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1013627131ec247bb24bbaf9c023c9
+      internalID: -1567964533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a419e466abbae4246b0aca84bd40b9b0
+      internalID: 639248141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af439f3a0e57de4bbc466db73600f76
+      internalID: -312317155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6293ac2aeae8a324190a37cfadc939e0
+      internalID: 1750644935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738ff7a1255c3a4cb77ef66703b8c21
+      internalID: -1592765444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360988b99452ae04a95e152acd42a33c
+      internalID: -577374432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91534c4d8e87a624cbb7ebe825481c19
+      internalID: 1774315555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7bae67b7884945a9ccb9ea07e1fa6
+      internalID: -75326479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f10d29f1a5e84fac4b1143024d6cc
+      internalID: -389507739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c253a9d4f3e53bb4e96eef68642f21a4
+      internalID: 1433000739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8d34f9e6725d4fa758f97e7b48dfa
+      internalID: -1970325044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af414a2634a39f1418ef0577f5e23532
+      internalID: -518905005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd74f7427471d40a101490a68bdf96
+      internalID: -273089997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bcc7d20e81f3045a05398423794327
+      internalID: 1280742495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47db186bde93974298ab032159098bf
+      internalID: 2027515578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a2505a71911747b7e8da958db112a
+      internalID: -1534174563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45683dffa9b594043a4b6bfd707e6a0c
+      internalID: 575175974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafeac704d739345a59b4b0c6f5d5f1
+      internalID: -544526850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f92efd4ebe1cf4abdf23cb59237612
+      internalID: 1397456112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8947f496fe30d5e478426ac43bf2797e
+      internalID: -191063345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfaaf196a20d1045a004d5e2c414681
+      internalID: 784033091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a3f54efaa9134ead0392ff5a203f1
+      internalID: 1692639143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ccdc9b23d4340478c9c857f602f630
+      internalID: -304653768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826467ee03b3a346af6ea0ab6369c26
+      internalID: 505382353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd37667f30536c449ac922da66ca8f9
+      internalID: 739401793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b406b4be263984f8362df82b3c361d
+      internalID: -727337058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3932df6de9d6d841ba1e042bcdde1c4
+      internalID: 1679069869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1429800a0884ba0449509f6575bedcde
+      internalID: 873800462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50785934d2d16524db11fc87e3a9af73
+      internalID: -1091945485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5e2de049527b443863718f86aaefc8
+      internalID: 89670405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f389adb88e862e34490ea1f74cca7c72
+      internalID: -519482037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdae7f3961b20a459c2e549da706df1
+      internalID: 1475967330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac663f3f6d0182148a9d4266871e71c8
+      internalID: -1892501436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3dc6a9f09c1a4ab11db7d96428067
+      internalID: 1881888054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5fed431bc8ee64ead2681211b9945f
+      internalID: 2045579700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff665287d1ec5f4bb6390e3005d9c38
+      internalID: -1748108355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775eabce3c9e6ee45b52ff2e6e4a0ae8
+      internalID: 69827103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0dfa66e109628448c1748cc17a6e7f
+      internalID: 1882747806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d695be8d073940b412131e42014d5
+      internalID: -126620431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db59b8899e3928d46b5a80eceb75ac15
+      internalID: -1779652496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc662bb6ce634944b82027a6b6995079
+      internalID: -876806700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd615dac97ae84db0b0a82dcd93a25
+      internalID: 555318377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9d10a29e878bd4e8250183b0c8f8ce
+      internalID: -624562104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7661572464c9f64a9d88dd3819b4758
+      internalID: 838275736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666ec042f7b44c42a9fe19cc98a2382
+      internalID: 1605722136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa6e3576f3e74a4088824d091b64272
+      internalID: -163953027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a24969a71328440b1fbc0c6c42cdb6
+      internalID: -1760551478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a27cc26ea9e56742bd1497ce492862e
+      internalID: -357056636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062689fdf988164aaac3fd4625900ba
+      internalID: -409792396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1378b6c178751fe4c897223e83b1e36b
+      internalID: 2040321694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_0: -1376099119
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_1: -197874560
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_10: -800368176
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_11: -1719995369
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_12: -991684036
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_13: -918023206
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_14: -1365134359
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_15: 304637920
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_16: -1441177211
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_17: 1184868662
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_18: 52052000
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_19: -1571597171
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_2: 1465894487
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_20: -1567964533
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_21: 639248141
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_22: -312317155
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_23: 1750644935
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_24: -1592765444
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_25: -577374432
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_26: 1774315555
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_27: -75326479
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_28: -389507739
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_29: 1433000739
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_3: 1479109010
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_30: -1970325044
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_31: -518905005
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_32: -273089997
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_33: 1280742495
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_34: 2027515578
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_35: -1534174563
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_36: 575175974
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_37: -544526850
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_38: 1397456112
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_39: -191063345
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_4: 1047897796
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_40: 784033091
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_41: 1692639143
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_42: -304653768
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_43: 505382353
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_44: 739401793
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_45: -727337058
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_46: 1679069869
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_47: 873800462
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_48: -1091945485
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_49: 89670405
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_5: 754020189
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_50: -519482037
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_51: 1475967330
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_52: -1892501436
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_53: 1881888054
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_54: 2045579700
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_55: -1748108355
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_56: 69827103
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_57: 1882747806
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_58: -126620431
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_59: -1779652496
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_6: 686241767
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_60: -876806700
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_61: 555318377
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_62: -624562104
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_63: 838275736
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_64: 1605722136
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_65: -163953027
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_66: -1760551478
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_67: -357056636
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_68: -409792396
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_69: 2040321694
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_7: 270749190
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_8: 1563786152
+      Lonesome_Forest_WINTER_WALLS_and_CLIFFS_with_FLOOR_9: 1302963337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
